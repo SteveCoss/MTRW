@@ -38,6 +38,21 @@ $RECYCLE.BIN/
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+*.zip
+*.nc
+*.txt
+*.jpg
+*.shp
+*.shx
+*.dbf
+*.sbn
+*.cpg
+*.prj
+*.sbx
+*.xml
+*.lock
+*.mat
+*.xlsx
 
 # Directories potentially created on remote AFP share
 .AppleDB
